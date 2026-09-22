@@ -1,4 +1,4 @@
-# Prototype 3
+# Grid-based by Geuddy Perez
 
 
 Grid-Based Shooter Prototype
